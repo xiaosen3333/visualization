@@ -1,0 +1,66 @@
+.welcome-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 30vh;
+  /* padding-top:8vh ; */
+  /*background-color: #333; */
+  color: #f9f9f9;
+  overflow: hidden;
+  /* background-image: url('background-image.jpg'); */
+  background-size: cover;
+}
+
+.welcome-content {
+  text-align: center;
+  padding: 20px;
+  box-sizing: border-box;
+  z-index: 2;
+  width: 100vw;
+  /*background: rgba(0, 0, 0, 0.5); */
+  border-radius: 10px;
+}
+
+.welcome-section h1 {
+  font-size: 3em;
+  margin-bottom: 0.5em;
+  transition: transform 0.5s ease-in-out;
+}
+
+.welcome-section p {
+  margin-bottom: 1.5em;
+  opacity: 0.9;
+  font-size: 1.2em;
+}
+
+.welcome-section button {
+  padding: 12px 24px;
+  border: 2px solid #fefbfb;
+  background-color: transparent;
+  color: #ffffff;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.3s;
+  border-radius: 5px;
+}
+
+.welcome-section button:hover {
+  background-color: #2a8ccf;
+  color: #ffffff;
+  transform: translateY(-3px);
+  border-color: #2a8ccf;
+}
+
+/* 响应式布局调整 */
+@media (max-width: 768px) {
+  .welcome-section h1 {
+    font-size: 2em;
+  }
+
+  .welcome-section p {
+    font-size: 1em;
+  }
+
+  .welcome-section button {
+    padding: 8px 16px;
+  }
+}

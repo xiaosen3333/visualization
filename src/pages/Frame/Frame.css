@@ -1,0 +1,89 @@
+.container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: auto;
+    grid-gap: 20px;
+    padding: 20px;
+    overflow: none;
+  }
+  .frameback {
+    background: rgb(224, 238, 236);
+
+
+  }
+  .framepage {
+    overflow-x:hidden;
+    overflow-y: hidden;
+  }
+  .second-container {
+    grid-template-columns: repeat(3, 1fr);
+    height: 96vh;
+
+  }
+  .third-container {
+    grid-column: span 1;
+    grid-template-columns: repeat(1, 1fr);
+    height: 96vh;
+  }
+  .chart {
+    /* background-color: rgb(198, 198, 198); */
+    /* padding: 2vw; */
+    border-radius: 10px;
+    border-radius: 20px;
+    /* background: linear-gradient(145deg, #cacaca, #f0f0f0); */
+    /* border: #1d1c1c solid 1px; */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+  }
+  
+  .chart h3 {
+    margin: 0,0,0,0.5vw;
+    
+  }
+
+  .severnth-chart {
+    grid-column: span 1;
+  }
+  .eighth-chart {
+    width: 80vw;
+    height: 80vh;
+    position: fixed;
+    top: 10vh;
+    left: 10vw;
+    background-color: aliceblue;
+  }
+  .ninth-chart {
+    grid-column: span 2;
+  }
+  .tenth-chart {
+    grid-column: span 1;
+  }
+  
+  .chart-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 90%;
+    height: 100%;
+    /* margin-bottom: au */
+  }
+  .real-chart {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 80%;
+    width: 110%;
+    position: relative;
+    /* margin: auto; */
+  }
+  
+  h3 {
+    color: #1d1c1c;
+  }
+  
+  .frameconclusion {
+    overflow-y: auto;
+  }

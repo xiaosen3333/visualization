@@ -1,0 +1,354 @@
+{
+  "USA": [
+    {
+      "value": 2526,
+      "id": "没有收入",
+      "percentageQuestion": 8.9,
+      "percentageSurvey": 6.4
+    },
+    {
+      "value": 2562,
+      "id": "0-10k美元",
+      "percentageQuestion": 9,
+      "percentageSurvey": 6.5
+    },
+    {
+      "value": 4037,
+      "id": "10k-30k美元",
+      "percentageQuestion": 14.1,
+      "percentageSurvey": 10.3
+    },
+    {
+      "value": 4906,
+      "id": "30k-50k美元",
+      "percentageQuestion": 17.1,
+      "percentageSurvey": 12.5
+    },
+    {
+      "value": 8096,
+      "id": "50k-100k美元",
+      "percentageQuestion": 28.3,
+      "percentageSurvey": 20.6
+    },
+    {
+      "value": 5393,
+      "id": "100k-200k美元",
+      "percentageQuestion": 18.8,
+      "percentageSurvey": 13.7
+    },
+    {
+      "value": 1172,
+      "id": "超过200k美元",
+      "percentageQuestion": 4.1,
+      "percentageSurvey": 3
+    }
+  ],
+  "China": [
+    {
+      "value": 1841,
+      "id": "没有收入",
+      "percentageQuestion": 8.9,
+      "percentageSurvey": 6.4
+    },
+    {
+      "value": 2965,
+      "id": "0-10k美元",
+      "percentageQuestion": 9,
+      "percentageSurvey": 6.5
+    },
+    {
+      "value": 1424,
+      "id": "10k-30k美元",
+      "percentageQuestion": 14.1,
+      "percentageSurvey": 10.3
+    },
+    {
+      "value": 1188,
+      "id": "30k-50k美元",
+      "percentageQuestion": 17.1,
+      "percentageSurvey": 12.5
+    },
+    {
+      "value": 962,
+      "id": "50k-100k美元",
+      "percentageQuestion": 28.3,
+      "percentageSurvey": 20.6
+    },
+    {
+      "value": 505,
+      "id": "100k-200k美元",
+      "percentageQuestion": 18.8,
+      "percentageSurvey": 13.7
+    },
+    {
+      "value": 61,
+      "id": "超过200k美元",
+      "percentageQuestion": 4.1,
+      "percentageSurvey": 3
+    }
+  ],
+  "India": [
+    {
+      "value": 1841,
+      "id": "没有收入",
+      "percentageQuestion": 8.9,
+      "percentageSurvey": 6.4
+    },
+    {
+      "value": 3665,
+      "id": "0-10k美元",
+      "percentageQuestion": 9,
+      "percentageSurvey": 6.5
+    },
+    {
+      "value": 1424,
+      "id": "10k-30k美元",
+      "percentageQuestion": 14.1,
+      "percentageSurvey": 10.3
+    },
+    {
+      "value": 1188,
+      "id": "30k-50k美元",
+      "percentageQuestion": 17.1,
+      "percentageSurvey": 12.5
+    },
+    {
+      "value": 962,
+      "id": "50k-100k美元",
+      "percentageQuestion": 28.3,
+      "percentageSurvey": 20.6
+    },
+    {
+      "value": 505,
+      "id": "100k-200k美元",
+      "percentageQuestion": 18.8,
+      "percentageSurvey": 13.7
+    },
+    {
+      "value": 61,
+      "id": "超过200k美元",
+      "percentageQuestion": 4.1,
+      "percentageSurvey": 3
+    }
+  ],
+  "Canada": [
+    {
+      "value": 1768,
+      "id": "没有收入",
+      "percentageQuestion": 8.9,
+      "percentageSurvey": 6.4
+    },
+    {
+      "value": 1793,
+      "id": "0-10k美元",
+      "percentageQuestion": 9,
+      "percentageSurvey": 6.5
+    },
+    {
+      "value": 2825,
+      "id": "10k-30k美元",
+      "percentageQuestion": 14.1,
+      "percentageSurvey": 10.3
+    },
+    {
+      "value": 2434,
+      "id": "30k-50k美元",
+      "percentageQuestion": 17.1,
+      "percentageSurvey": 12.5
+    },
+    {
+      "value": 5367,
+      "id": "50k-100k美元",
+      "percentageQuestion": 28.3,
+      "percentageSurvey": 20.6
+    },
+    {
+      "value": 3375,
+      "id": "100k-200k美元",
+      "percentageQuestion": 18.8,
+      "percentageSurvey": 13.7
+    },
+    {
+      "value": 620,
+      "id": "超过200k美元",
+      "percentageQuestion": 4.1,
+      "percentageSurvey": 3
+    }
+  ],
+  "France": [
+    {
+      "value": 1894,
+      "id": "没有收入",
+      "percentageQuestion": 8.9,
+      "percentageSurvey": 6.4
+    },
+    {
+      "value": 1921,
+      "id": "0-10k美元",
+      "percentageQuestion": 9,
+      "percentageSurvey": 6.5
+    },
+    {
+      "value": 3027,
+      "id": "10k-30k美元",
+      "percentageQuestion": 14.1,
+      "percentageSurvey": 10.3
+    },
+    {
+      "value": 3279,
+      "id": "30k-50k美元",
+      "percentageQuestion": 17.1,
+      "percentageSurvey": 12.5
+    },
+    {
+      "value": 6072,
+      "id": "50k-100k美元",
+      "percentageQuestion": 28.3,
+      "percentageSurvey": 20.6
+    },
+    {
+      "value": 3044,
+      "id": "100k-200k美元",
+      "percentageQuestion": 18.8,
+      "percentageSurvey": 13.7
+    },
+    {
+      "value": 479,
+      "id": "超过200k美元",
+      "percentageQuestion": 4.1,
+      "percentageSurvey": 3
+    }
+  ],
+  "UK": [
+    {
+      "value": 1894,
+      "id": "没有收入",
+      "percentageQuestion": 8.9,
+      "percentageSurvey": 6.4
+    },
+    {
+      "value": 1921,
+      "id": "0-10k美元",
+      "percentageQuestion": 9,
+      "percentageSurvey": 6.5
+    },
+    {
+      "value": 3027,
+      "id": "10k-30k美元",
+      "percentageQuestion": 14.1,
+      "percentageSurvey": 10.3
+    },
+    {
+      "value": 3679,
+      "id": "30k-50k美元",
+      "percentageQuestion": 17.1,
+      "percentageSurvey": 12.5
+    },
+    {
+      "value": 6072,
+      "id": "50k-100k美元",
+      "percentageQuestion": 28.3,
+      "percentageSurvey": 20.6
+    },
+    {
+      "value": 2044,
+      "id": "100k-200k美元",
+      "percentageQuestion": 18.8,
+      "percentageSurvey": 13.7
+    },
+    {
+      "value": 879,
+      "id": "超过200k美元",
+      "percentageQuestion": 4.1,
+      "percentageSurvey": 3
+    }
+  ],
+  "Brazil": [
+    {
+      "value": 757,
+      "id": "没有收入",
+      "percentageQuestion": 8.9,
+      "percentageSurvey": 6.4
+    },
+    {
+      "value": 768,
+      "id": "0-10k美元",
+      "percentageQuestion": 9,
+      "percentageSurvey": 6.5
+    },
+    {
+      "value": 1211,
+      "id": "10k-30k美元",
+      "percentageQuestion": 14.1,
+      "percentageSurvey": 10.3
+    },
+    {
+      "value": 1871,
+      "id": "30k-50k美元",
+      "percentageQuestion": 17.1,
+      "percentageSurvey": 12.5
+    },
+    {
+      "value": 2228,
+      "id": "50k-100k美元",
+      "percentageQuestion": 28.3,
+      "percentageSurvey": 20.6
+    },
+    {
+      "value": 817,
+      "id": "100k-200k美元",
+      "percentageQuestion": 18.8,
+      "percentageSurvey": 13.7
+    },
+    {
+      "value": 351,
+      "id": "超过200k美元",
+      "percentageQuestion": 4.1,
+      "percentageSurvey": 3
+    }
+  ],
+  "Russia": [
+    {
+      "value": 757,
+      "id": "没有收入",
+      "percentageQuestion": 8.9,
+      "percentageSurvey": 6.4
+    },
+    {
+      "value": 768,
+      "id": "0-10k美元",
+      "percentageQuestion": 9,
+      "percentageSurvey": 6.5
+    },
+    {
+      "value": 1211,
+      "id": "10k-30k美元",
+      "percentageQuestion": 14.1,
+      "percentageSurvey": 10.3
+    },
+    {
+      "value": 2471,
+      "id": "30k-50k美元",
+      "percentageQuestion": 17.1,
+      "percentageSurvey": 12.5
+    },
+    {
+      "value": 2428,
+      "id": "50k-100k美元",
+      "percentageQuestion": 28.3,
+      "percentageSurvey": 20.6
+    },
+    {
+      "value": 1617,
+      "id": "100k-200k美元",
+      "percentageQuestion": 18.8,
+      "percentageSurvey": 13.7
+    },
+    {
+      "value": 351,
+      "id": "超过200k美元",
+      "percentageQuestion": 4.1,
+      "percentageSurvey": 3
+    }
+  ]
+}

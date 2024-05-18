@@ -1,0 +1,82 @@
+.industrycontainer {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: auto;
+    grid-gap: 20px;
+    padding: 20px;
+
+  }
+
+ .industryback {
+  /* background: rgb(225, 233, 236); */
+  background: rgb(224, 238, 236);
+
+
+ }
+  .industrybox {
+    display: grid;
+    grid-column: span 1;
+    grid-template-columns: repeat(1, 1fr);
+    height: 96vh;
+  }
+  .industrybox2 {
+    grid-column: span 2;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .chart {
+    border-radius: 10px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+  }
+  .chart h3 {
+    margin: 0,0,0,0.5vw;
+    
+  }
+  .first-chart {
+    grid-column: span 2;
+    height: 50vh;
+  }
+  .second-chart {
+    grid-column: span 1;
+  }
+  .third-chart {
+    grid-column: span 1;
+  }
+  .fourth-chart {
+    grid-column: span 1;
+  }
+  .fifth-chart {
+    grid-column: span 1;
+  }
+  .sixth-chart {
+    grid-column:  span 2;
+  }
+  
+  .chart-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 90%;
+
+  }
+  .real-chart {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 40vh;
+    width: 110%;
+    position: relative;
+    /* margin: auto; */
+  }
+  
+  h3 {
+    color: #1d1c1c;
+  }
+  .industryconclusion {
+    overflow-y: auto;
+  }

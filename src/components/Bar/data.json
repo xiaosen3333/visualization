@@ -1,0 +1,156 @@
+{
+    "serie":[{
+        "id": "React",
+        "would_use": 67.9,
+        "would_not_use": -14,
+        "interested": 8.6,
+        "not_interested": -9.6
+    },
+    {
+        "id": "Vuejs",
+        "would_use": 35.7,
+        "would_not_use": -10.5,
+        "interested": 27,
+        "not_interested": -26.4
+    },
+    {
+        "id": "Angular",
+        "would_use": 20.8,
+        "would_not_use": -28,
+        "interested": 10.4,
+        "not_interested": -40.5
+    },
+    {
+        "id": "Preact",
+        "would_use": 9.5,
+        "would_not_use": -3.3,
+        "interested": 22.6,
+        "not_interested": -40.9
+    },
+    {
+        "id": "Ember",
+        "would_use": 1.3,
+        "would_not_use": -6.2,
+        "interested": 9.3,
+        "not_interested": -60.2
+    },
+    {
+        "id": "Svelte",
+        "would_use": 19,
+        "would_not_use": -2.2,
+        "interested": 50.5,
+        "not_interested": -21.9
+    },
+    {
+        "id": "Alpinejs",
+        "would_use": 4.7,
+        "would_not_use": -1.5,
+        "interested": 14.9,
+        "not_interested": -30.6
+    },
+    {
+        "id": "Litelement",
+        "would_use": 4.4,
+        "would_not_use": -1.8,
+        "interested": 13.1,
+        "not_interested": -22.5
+    },
+    {
+        "id": "Solid",
+        "would_use": 5.7,
+        "would_not_use": -0.6,
+        "interested": 39.1,
+        "not_interested": -20.5
+    },
+    {
+        "id": "Qwik",
+        "would_use": 1.6,
+        "would_not_use": -0.3,
+        "interested": 31.3,
+        "not_interested": -15.4
+    },
+    {
+        "id": "Stencil",
+        "would_use": 2.7,
+        "would_not_use": -1.7,
+        "interested": 10.2,
+        "not_interested": -21
+    }],
+    "react":[{
+        "id": "React",
+        "would_use": 67.9,
+        "would_not_use": -14,
+        "interested": 8.6,
+        "not_interested": -9.6
+    }],
+    "vuejs":[{
+        "id": "Vuejs",
+        "would_use": 35.7,
+        "would_not_use": -10.5,
+        "interested": 27,
+        "not_interested": -26.4
+    }],
+    "angular":[{
+        "id": "Angular",
+        "would_use": 20.8,
+        "would_not_use": -28,
+        "interested": 10.4,
+        "not_interested": -40.5
+    }],
+    "preact":[{
+        "id": "Preact",
+        "would_use": 9.5,
+        "would_not_use": -3.3,
+        "interested": 22.6,
+        "not_interested": -40.9
+    }],
+    "ember":[{
+        "id": "Ember",
+        "would_use": 1.3,
+        "would_not_use": -6.2,
+        "interested": 9.3,
+        "not_interested": -60.2
+    }],
+    "svelte":[{
+        "id": "Svelte",
+        "would_use": 19,
+        "would_not_use": -2.2,
+        "interested": 50.5,
+        "not_interested": -21.9
+    }],
+    "alpinejs":[{
+        "id": "Alpinejs",
+        "would_use": 4.7,
+        "would_not_use": -1.5,
+        "interested": 14.9,
+        "not_interested": -30.6
+    }],
+    "litelement":[{
+        "id": "Litelement",
+        "would_use": 4.4,
+        "would_not_use": -1.8,
+        "interested": 13.1,
+        "not_interested": -22.5
+    }],
+    "solid":[{
+        "id": "Solid",
+        "would_use": 5.7,
+        "would_not_use": -0.6,
+        "interested": 39.1,
+        "not_interested": -20.5
+    }],
+    "qwik":[{
+        "id": "Qwik",
+        "would_use": 1.6,
+        "would_not_use": -0.3,
+        "interested": 31.3,
+        "not_interested": -15.4
+    }],
+    "stencil":[{
+        "id": "Stencil",
+        "would_use": 2.7,
+        "would_not_use": -1.7,
+        "interested": 10.2,
+        "not_interested": -21
+    }]
+}

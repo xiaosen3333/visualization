@@ -1,0 +1,82 @@
+[
+    {
+        "id": "USA",
+        "value": 4666
+    },
+    {
+        "id": "DEU",
+        "value": 2030
+    },
+    {
+        "id": "FRA",
+        "value": 1457
+    },
+    {
+        "id": "GBR",
+        "value": 1382
+    },
+    {
+        "id": "IND",
+        "value": 2255
+    },
+    {
+        "id": "CAN",
+        "value": 975
+    },
+    {
+        "id": "POL",
+        "value": 933
+    },
+    {
+        "id": "BRA",
+        "value": 752
+    },
+    {
+        "id": "ESP",
+        "value": 748
+    },
+    {
+        "id": "NLD",
+        "value": 713
+    },
+    {
+        "id": "RUS",
+        "value": 598
+    },
+    {
+        "id": "AUS",
+        "value": 1792
+    },
+    {
+        "id": "SWE",
+        "value": 533
+    },
+    {
+        "id": "ITA",
+        "value": 485
+    },
+    {
+        "id": "UKR",
+        "value": 368
+    },
+    {
+        "id": "CZE",
+        "value": 356
+    },
+    {
+        "id": "NOR",
+        "value": 309
+    },
+    {
+        "id": "CHN",
+        "value": 3000
+    },
+    {
+        "id": "BEL",
+        "value": 287
+    },
+    {
+        "id": "MEX",
+        "value": 281
+    }
+]
